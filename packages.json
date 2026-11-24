@@ -1,0 +1,6 @@
+[
+  {"package": "MARMOT",      "url": "https://github.com/peterleary/marmot"},
+  {"package": "Rphenograph", "url": "https://github.com/peterleary/Rphenograph"},
+  {"package": "anndataR",    "url": "https://github.com/scverse/anndataR"},
+  {"package": "fireworks",   "url": "https://github.com/hypebright/fireworks"}
+]
